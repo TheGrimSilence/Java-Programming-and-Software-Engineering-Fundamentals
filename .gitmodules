@@ -1,3 +1,6 @@
 [submodule "Foundations"]
 	path = Foundations
 	url = https://github.com/TheGrimSilence/Programming-Foundations-with-JavaScript-HTML-and-CSS
+[submodule "Problems"]
+	path = Problems
+	url = https://github.com/TheGrimSilence/Java-Programming-Solving-Problems-with-Software
